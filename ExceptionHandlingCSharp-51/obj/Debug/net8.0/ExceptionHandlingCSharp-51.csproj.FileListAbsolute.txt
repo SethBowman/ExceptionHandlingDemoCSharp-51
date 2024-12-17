@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\bin\Debug\net8.0\ExceptionHandlingCSharp-51.exe
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\bin\Debug\net8.0\ExceptionHandlingCSharp-51.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\bin\Debug\net8.0\ExceptionHandlingCSharp-51.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\bin\Debug\net8.0\ExceptionHandlingCSharp-51.dll
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\bin\Debug\net8.0\ExceptionHandlingCSharp-51.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\obj\Debug\net8.0\ExceptionHandlingCSharp-51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\obj\Debug\net8.0\ExceptionHandlingCSharp-51.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\obj\Debug\net8.0\ExceptionHandlingCSharp-51.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\obj\Debug\net8.0\ExceptionHandlingCSharp-51.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\obj\Debug\net8.0\ExceptionHandlingCSharp-51.dll
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\obj\Debug\net8.0\refint\ExceptionHandlingCSharp-51.dll
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\obj\Debug\net8.0\ExceptionHandlingCSharp-51.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\obj\Debug\net8.0\ExceptionHandlingCSharp-51.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\ExceptionHandlingCSharp-51\ExceptionHandlingCSharp-51\obj\Debug\net8.0\ref\ExceptionHandlingCSharp-51.dll
